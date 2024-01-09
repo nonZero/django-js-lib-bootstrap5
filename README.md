@@ -25,8 +25,8 @@ This package includes only the original JS and CSS files.
    
    ...
    
-       <link rel="stylesheet" href="{% static "js-lib-bootstrap5/css/bootstrap5.css" %}">
+       <link rel="stylesheet" href="{% static "js-lib-bootstrap5/css/bootstrap.css" %}">
 
    ...
    
-       <script src="{% static "js-lib-bootstrap5/js/bootstrap5.js" %}"></script>
+       <script src="{% static "js-lib-bootstrap5/js/bootstrap.js" %}"></script>
